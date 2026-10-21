@@ -130,11 +130,7 @@ Contributions are welcome!
 4. Push the branch: `git push origin feature/your-feature`
 5. Open a Pull Request
 
-## 📄 License
 
-Add a license (for example [MIT](https://choosealicense.com/licenses/mit/)) and mention it here.
-
----
 
 <div align="center">
 
