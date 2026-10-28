@@ -99,7 +99,6 @@ if not st.session_state.logged_in:
                 st.rerun()
             else:
                 st.error("Incorrect username or password.")
-        st.info("Demo login — Username: `admin` | Password: `library123`")
     st.stop()
 
 # ------------------------------------------------------------- navigation --

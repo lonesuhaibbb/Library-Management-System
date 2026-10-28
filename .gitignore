@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+
+# The database is created automatically on first run (create_tables()).
+# Committing it causes merge conflicts in a team project.
+# Remove this line if you want to ship sample data with the repo.
+library.db
